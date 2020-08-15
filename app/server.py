@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/u/0/uc?id=1FQukIiDVpIVXUIVFnEEqnQwK6kQvjz3p&export=download'
+export_file_url = 'https://drive.google.com/u/0/uc?id=1LzgCH86FR2ITEtsF3txGWw7zVqY6PZ9M&export=download'
 export_file_name = 'export.pkl'
 
 classes = ['bambooroll','chiuchaodumpling','eggtart', 'guotie', 'haamseuigok', 'shrimpdumpling', 'siumai', 'wugok', 'xiaolongbao']
